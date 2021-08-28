@@ -5,6 +5,9 @@ name = "pypi"
 
 [packages]
 pytz = "*"
+pip = "==21.2.4"
+setuptools = "*"
+python-dotenv = "*"
 
 [dev-packages]
 
